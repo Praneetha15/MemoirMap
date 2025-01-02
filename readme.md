@@ -2,6 +2,15 @@
 
 MemoirMap is a travel journal application designed to help users document their adventures, family vacations, and personal trips. Users can create diaries, upload photos, and choose to share their experiences publicly or keep them private.
 
+<p align="center">
+  <img src="assets/homepage.jpeg" alt="Homepage" width="30%">
+  <img src="assets/my-blogs.jpeg" alt="Dashboard" width="30%">
+  <img src="assets/public-blogs.jpeg" alt="Dashboard" width="30%">
+</p>
+<p align="center">
+  <i>Homepage and Dashboard Screenshots</i>
+</p>
+
 ## Features
 
 - **Custom Travel Journals**: Craft personalized entries for each trip or experience.
